@@ -1,4 +1,7 @@
 # 108_1 DSA
+黃郁庭  
+東吳大學巨量資料管理
+
 # week2
  >linked-list
  
